@@ -1,1 +1,1 @@
-# GameOfList
+# GameOfLife
